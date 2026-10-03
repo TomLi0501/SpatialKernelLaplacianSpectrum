@@ -15,6 +15,7 @@ and identifies the factors affecting eigenmode correlations.
 - numpy
 - scipy
 - tqdm
+- matplotlib
 
 ## Usage
 
